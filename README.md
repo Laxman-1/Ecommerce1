@@ -15,4 +15,4 @@ Dynamic product listings, cart management, and order processing
 Backend	Laravel (PHP)
 Frontend	React.js, JavaScript, Bootstrap
 Auth	Token-based (API authentication)
-API Comm.	JSON via Axios or Fetch
+API Comm.	JSON via  Fetch
